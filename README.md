@@ -1,5 +1,5 @@
-## jenkins-python-build-test-demo-vs readme
-
+## Jenkins Pipeline for Python Build and Test Stages
+* Link to YouTube video overview of this process: https://youtu.be/6njM8g5hKuk
 ### Installation with Docker
 * Install Docker on your local machine.
 * Run this command: `docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk11`
